@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/binkwang/BinkW_Test/_apis/build/status/hanmbink.pipelines-xcode?branchName=master)](https://dev.azure.com/binkwang/BinkW_Test/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
